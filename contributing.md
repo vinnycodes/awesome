@@ -11,7 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - You work for or with Imarc,
 - your links are categorized appropriately,
 - links are alphabetical within their category,
-- and have a short description.
+- and have a short description that ends with a period.
 
 
 ## Updating your PR
