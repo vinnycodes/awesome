@@ -24,6 +24,7 @@
 - [Colornames.org](https://colornames.org/) - Suggestions for names for colors given a hex.
 - [Leonardo](https://leonardocolor.io/) - Adobe color palette generator focused on contrast ratios.
 - [Name that Color](https://chir.ag/projects/name-that-color/) - Suggests a name for a color given a hex.
+- [Coolors](https://coolors.co/) - Super fast color schemes generator
 
 
 ### Shadows
